@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1314898156 source:c:\users\z.ettarak\desktop\devops\c\variables\main.c
+1612363371 source:c:\users\z.ettarak\desktop\devops\c\variables\main.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 
